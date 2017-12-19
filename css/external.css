@@ -1,0 +1,105 @@
+body {
+    background: url(../pics/cardboard_flat/cardboard_flat_@2X.png);
+}
+
+.container {
+    background: url(../pics/straws/straws_@2X.png);
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    border: 1px groove black;
+}
+
+#name {
+    font-family: 'Lobster', cursive;
+    background: Black;
+    color: white;
+    height: 60px;
+    padding-top: 40px;
+    font-size: 45px;
+    letter-spacing: 2px;
+    color: transparent;
+    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+}
+
+.header {
+    width: 600px;
+    margin: auto;
+}
+
+.header h2 {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+#navbar li {
+    display: inline;
+    border-right: 1px black solid;
+    padding-right: 20px;
+    padding-left: 10px;
+    text-decoration: none;
+      font-family: 'Cinzel', serif;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: black;
+ 
+}
+
+#navbar li:last-child {
+    border-right: none;
+}
+
+#navbar li a:hover {
+    -webkit-filter: opacity(0.3);
+    text-decoration: underline;
+}
+
+#p1 {
+    padding: none;
+    margin: 0;
+}
+
+#pic1 {
+    height: 350px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /**Give Rounded look**/
+    border: 1px solid transparent;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
+div .education {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
+}
+
+.bio {
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    text-decoration-color: #212121;
+    padding: 20px;
+}
+.resume{
+     font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
+    text-decoration-color: #212121;
+    padding: 10px;
+}
+
+#contact {
+     font-family: 'Pathway Gothic One', sans-serif;
+   
+    font-size: 20px;
+    text-decoration-color: #212121;
+    padding: 10px;
+    
+}
