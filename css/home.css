@@ -31,7 +31,7 @@ nav {
 nav a {
     margin-top: 20px;
     margin-left: 30px;
-    color: #cdc0b0;
+    color: #FFCC00;
     text-decoration: none;
     line-height: 30px;
     float: right;
@@ -63,11 +63,11 @@ nav a:hover {
 }
 
 #quote1 {
-    color: white;
+    color: #FFCC00;
     text-align: center;
     vertical-align: bottom;
     font-size: 70px;
-    border: 6px white solid;
+    border: 6px #FFCC00 solid;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -79,19 +79,19 @@ nav a:hover {
 }
 
 .sectOne {
-    background-image: url(pics/prog.jpeg);
+    background-image: url(../pics/prog.jpeg);
 }
 
 .sectTwo {
-    background-image: url(pics/dock.jpeg);
+    background-image: url(../pics/dock.jpeg);
 }
 
 .sectThree {
-    background-image: url(pics/BW%20Beach%20Shores.jpg);
+    background-image: url(../pics/BW%20Beach%20Shores.jpg);
 }
 
 .sectFour {
-    background-image: url(pics/work.jpeg);
+    background-image: url(../pics/work.jpeg);
 }
 
 #pic1 {
@@ -116,9 +116,9 @@ nav a:hover {
     top: 50%;
     border-radius: 10px;
     font-size: 20px;
-    color: white;
+    color: #FFCC00;
     font-family: 'Oswald', sans-serif;
-    border: 4px white solid;
+    border: 4px #FFCC00 solid;
 }
 
 #pic2 {
@@ -146,9 +146,9 @@ nav a:hover {
     top: 50%;
     border-radius: 10px;
     font-size: 20px;
-    color: white;
+    color: #FFCC00;
     font-family: 'Oswald', sans-serif;
-    border: 4px white solid;
+    border: 4px #FFCC00 solid;
 }
 
 #pic3 {
@@ -176,17 +176,17 @@ nav a:hover {
     top: 50%;
     border-radius: 10px;
     font-size: 20px;
-    color: white;
+    color: #FFCC00;
     font-family: 'Oswald', sans-serif;
-    border: 4px white solid;
+    border: 4px #FFCC00 solid;
 }
 
 #thank {
-    color: #cdc0b0;
+    color: Black;
     text-align: center;
     vertical-align: bottom;
     font-size: 70px;
-    border: 6px #cdc0b0 solid;
+    border: 6px BLack solid;
     position: relative;
     margin-left: 430px;
     width: 50%;
