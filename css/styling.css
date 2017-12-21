@@ -1,0 +1,10 @@
+.education {
+    margin: 100px;
+    padding: 0px;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
