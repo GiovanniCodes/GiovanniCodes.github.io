@@ -1,3 +1,22 @@
+* {
+    margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 20px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
 .education {
     margin: 100px;
     padding: 0px;
@@ -7,4 +26,31 @@
     top: 50%;
     transform: translateY(-50%);
     bottom: initial;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.carousel-inner {
+    height: 950px;
+}
+
+#navB {}
+
+.sect {
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.subSection {
+    height: 50%;
+    overflow: hidden;
+}
+
+.img2 {
+    padding: 0;
+    margin: 0;
 }
